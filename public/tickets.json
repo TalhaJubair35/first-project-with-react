@@ -1,0 +1,92 @@
+[
+  {
+    "id": "TCK-001",
+    "title": "Login not working",
+    "description": "User reports unable to login with correct credentials.",
+    "customer": "Sadia Rahman",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-20 10:12"
+  },
+  {
+    "id": "TCK-002",
+    "title": "UI overlap on mobile",
+    "description": "Buttons overlap on small screens in checkout page.",
+    "customer": "Rafi Hossain",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-21 09:00"
+  },
+  {
+    "id": "TCK-003",
+    "title": "Payment timeout",
+    "description": "Payment gateway times out intermittently.",
+    "customer": "Nusrat Jahan",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-18 14:45"
+  },
+  {
+    "id": "TCK-004",
+    "title": "Profile image upload error",
+    "description": "Image fails to upload for some JPG files.",
+    "customer": "Arif Khan",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-19 11:30"
+  },
+  {
+    "id": "TCK-005",
+    "title": "Notifications delay",
+    "description": "Push notifications sometimes delayed by minutes.",
+    "customer": "Mita Akter",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-17 16:20"
+  },
+  {
+    "id": "TCK-006",
+    "title": "Password reset link expired",
+    "description": "Reset links expire immediately for some users.",
+    "customer": "Zakir Hossain",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-22 08:10"
+  },
+  {
+    "id": "TCK-007",
+    "title": "Search results incorrect",
+    "description": "Search returns unrelated results for query.",
+    "customer": "Rumana Sultana",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-16 12:00"
+  },
+  {
+    "id": "TCK-008",
+    "title": "Slow dashboard load",
+    "description": "Dashboard takes long time to load for power users.",
+    "customer": "Aminul Islam",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-15 09:40"
+  },
+  {
+    "id": "TCK-009",
+    "title": "CSV export formatting",
+    "description": "Exported CSV contains extra quotes and broken headers.",
+    "customer": "Shakib Al Hasan",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-13 18:55"
+  },
+  {
+    "id": "TCK-010",
+    "title": "Two-factor auth not sending code",
+    "description": "Some users not receiving SMS code for 2FA.",
+    "customer": "Tania Noor",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-12 07:20"
+  }
+]
